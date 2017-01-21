@@ -207,7 +207,7 @@ export class User {
 }
 ```
 
-This code defines a simple [TypeScript class](http://www.typescriptlang.org/Handbook#classes) that does nothing more than define two properties—`email` and `password`. Note the use of [TypeScript’s `export` keyword](http://www.typescriptlang.org/Handbook#modules-going-external), as we’ll see why that’s important momentarily.
+This code defines a simple [TypeScript class](https://www.typescriptlang.org/docs/handbook/classes.html) that does nothing more than define two properties—`email` and `password`. Note the use of [TypeScript’s `export` keyword](https://www.typescriptlang.org/docs/handbook/modules.html), as we’ll see why that’s important momentarily.
 
 Next, open `app/app.component.ts`, and add the following `import` to the top of the file:
 
